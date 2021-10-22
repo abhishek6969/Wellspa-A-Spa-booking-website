@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Top5.xsl"?>
+<series>
+ <diff_series>
+  <name>HOT STONE</name>
+  <category>BACK</category>
+  <rating>9.5</rating>
+</diff_series>
+ <diff_series>
+  <name>FACIAL</name>
+  <category>FACE</category>
+  <rating>9.3</rating>
+</diff_series>
+ <diff_series>
+  <name>STEAM</name>
+  <category>FULL BODY</category>
+  <rating>9.1</rating>
+</diff_series>
+ <diff_series>
+  <name>SCALP MASSAGE</name>
+  <category>HEAD</category>
+  <rating>9.1</rating>
+</diff_series>
+ <diff_series>
+  <name>RELAX MASSAGE</name>
+  <category>BODY</category>
+  <rating>9.0</rating>
+</diff_series>
+</series>
